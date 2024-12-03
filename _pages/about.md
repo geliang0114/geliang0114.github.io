@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🙌 Hello! Welcome to my page. I am Geliang Ouyang, a 3-year student from Huazhong University of Science and Technology (HUST), and currently intern in ONE Lab, where I began my research career under the guidance of [Assoc. Prof. Yao Wan](http://wanyao.me/). My research interest includes Large Language Models(LLMs), Multi-modal LLM(MLLM), and tabular data.
+🙌 Hello! Welcome to my page. I am Geliang Ouyang, a 3-year student from Huazhong University of Science and Technology (HUST), and currently intern in [ONE Lab](https://oneslab.github.io), where I began my research career under the guidance of [Assoc. Prof. Yao Wan](http://wanyao.me/). My research interest includes Large Language Models(LLMs), Multi-modal LLM(MLLM), and tabular data.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 My personal website has been up! 
