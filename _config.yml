@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Geliang Ouyang"
+title                    : "GeliangOuyang"
 description              : "I am a 3-year student from Huazhong University of Science and Technology, and currently intern in ONE Lab."
 repository               : "geliang0114/geliang0114.github.io"
 google_scholar_stats_use_cdn : true
