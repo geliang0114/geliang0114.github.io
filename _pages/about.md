@@ -20,22 +20,23 @@ redirect_from:
 🙌 Hello! Welcome to my page. I am Geliang Ouyang, a 3-year student from Huazhong University of Science and Technology (HUST), and currently intern in [ONE Lab](https://oneslab.github.io), where I began my research career under the guidance of [Assoc. Prof. Yao Wan](http://wanyao.me/). My research interest includes Large Language Models(LLMs), Reasoning and Agent.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 My personal website has been up! 
+- *2024.12*: &nbsp;🎉🎉 My personal website has been up!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XXXX 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint 2025</div><img src='images/pipeline.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coming soon](https://xxxxxx.pdf)
+[nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow](https://arxiv.org/pdf/2502.05036)
 
-**A**, B, C, D
+**Geliang Ouyang**, Jingyao Chen, Zhihe Nie, Yi Gui, Yao Wan, Hongyu Zhang, Dongping Chen
 
-[**Project**](https://xxxxxx) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/geliang0114/nvAgent) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 - [Coming soon](https://github.com), A, B, C, **xxx 2025**
+ 
 
 # 📖 Educations
 - *2022.09 - 2026.06 (expected)*, BEng., Huazhong University of Science and Technology.
