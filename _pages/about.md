@@ -21,10 +21,11 @@ redirect_from:
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 My personal website has been up!
+- *2025.05*: &nbsp;🎉🎉 Our *nvAgent* is accepted by ACL 2025 Main Track!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint 2025</div><img src='images/pipeline_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/pipeline_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow](https://arxiv.org/pdf/2502.05036)
